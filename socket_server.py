@@ -115,7 +115,7 @@ def recv(sock):                 # 데이터 수신 함수
             print(in_data)
             print("수신 데이터 :  ", in_data)
 
-host = '192.168.219.100' # 호스트 ip를 적어주세요
+host = '192' # 호스트 ip를 적어주세요
 port = 6000           # 포트번호를 임의로 설정해주세요
 
 server_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
