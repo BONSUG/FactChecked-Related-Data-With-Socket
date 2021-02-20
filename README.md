@@ -4,5 +4,5 @@
 ![image](https://user-images.githubusercontent.com/45021330/108589172-7fbd3500-73a0-11eb-99ef-3c1c74173b91.png)
 
 
-정확도
+정확도\
 0: 판단유보   1: 전혀 사실 아님   2: 대체로 사실 아님  3: 절반의 사실   4: 대체로 사실 5: 사실
