@@ -44,7 +44,7 @@ namespace client
         {
             port = 6000;
 
-            ip = IPAddress.Parse("192.168.219.100");
+            ip = IPAddress.Parse("192");
 
             Start_Server();
 
